@@ -10,4 +10,4 @@ Auteur : Nicolas HERBEZ
 
 ![session-1](profile/img/2.png)&nbsp;&nbsp;  
 
-![session-1](profile/img/3.png)&nbsp;&nbsp;
+![session-1](profile/img/3-1.png)&nbsp;&nbsp;
